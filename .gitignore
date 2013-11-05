@@ -31,5 +31,6 @@ proguard.cfg
 proguard-project.txt
 
 # Other
+libs/*.properties
 .DS_Store
 tmp
